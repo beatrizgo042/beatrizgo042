@@ -1,7 +1,7 @@
 ### Oie! Eu sou Beatriz Gomes 👋
 
 - 🔭 Estou cursando o 1º ano do Ensino médio e técnico no programa EduTech-PR
-- 🌱 Estudando HTML, CSS, JavaScript e Figma
+- 🌱 Estudando Python 🐍
 - 📫 Contate-me pelo e-mail: beatrizgo042@gmail.com
 - 😄 Pronomes: ela/dela
 
