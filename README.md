@@ -1,11 +1,11 @@
-### Oie! Eu sou Beatriz Gomes 👋
+### Hello, world! I'm Beatriz Gomes 👋
 
-- 🔭 Estou cursando o 2º ano do Ensino médio e técnico no programa EduTech-PR
-- 🌱 Estudando Python 🐍 e análise de dados
-- 🗣️ Inglês: intermediário
-- 🇩🇪 Aprendendo alemão
-- 📫 Contate-me pelo e-mail: beatrizgo042@gmail.com
-- 😄 Pronomes: ela/dela
+- 🔭 I'm studying the 2nd year of high school
+- 🌱 Studying Python 🐍
+- 🗣️ Intermediary English
+- 🇩🇪 Learning German
+- 📫 Contat me by email: beatrizgo042@gmail.com
+- 😄 Pronoums: she/her
 
 <div>
   <a href="https://github.com/beatrizgo042">
