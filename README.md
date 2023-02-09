@@ -1,6 +1,6 @@
 ### Hello, world! I'm Beatriz Gomes 👋
 
-- 🔭 I'm studying the 2nd year of high school
+- 🔭 I'm studying the 3rd year of high school
 - 🌱 Studying Python 🐍
 - 🗣️ Intermediary English
 - 🇩🇪 Learning German
