@@ -1,7 +1,6 @@
 ### Hello, world! I'm Beatriz Gomes 👋
 
 - 🔭 I'm studying the 3rd year of high school
-- 🌱 Studying HTML, CSS JavaScript and Figma
 - 🐍 Studying Python
 - 🗣️ Intermediary English
 - 🇩🇪 Learning German
