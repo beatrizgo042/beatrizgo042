@@ -2,8 +2,8 @@
 
 - 📚 I'm studying the 3rd year of high school
 - 🐍 Studying Python
+- 🎲 Data Science
 - 🗣️ Intermediary English
-- 🇩🇪 Learning German
 - 📧 Contat me by email: beatrizgo042@gmail.com
 - 😄 Pronoums: she/her
 
