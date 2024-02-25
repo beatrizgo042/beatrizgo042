@@ -1,11 +1,11 @@
-### Hello, world! I'm Beatriz Gomes 👋
+### Olá, Mundo! Eu sou Beatriz Gomes 👋
 
-- 📚 I'm studying the 3rd year of high school
-- 🐍 Studying Python
+- 📚 Estou no 1° período de Estatística na UFPR
+- 🐍 Estudando Power BI
 - 🎲 Data Science
-- 🗣️ Intermediary English
-- 📧 Contat me by email: beatrizgo042@gmail.com
-- 😄 Pronoums: she/her
+- 🗣️ Inglês intermediário
+- 📧 Contato pelo email: beatrizgo042@gmail.com
+- 😄 Pronomes: Ela/Dela
 
 ###
 
