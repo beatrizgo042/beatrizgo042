@@ -16,10 +16,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/kQhA41jQjlUAAAAi/flower-sunflower.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" width="42" alt="css3 logo" />
