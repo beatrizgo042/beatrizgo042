@@ -1,8 +1,7 @@
 ### Olá, Mundo! Eu sou Beatriz Gomes 👋
 
-- 📚 Estou no 1° período de Estatística na UFPR
+- 🎲 Cursando tecnólogo em Ciência de Dados
 - 🐍 Estudando Power BI
-- 🎲 Data Science
 - 🗣️ Inglês intermediário
 - 📧 Contato pelo email: beatrizgo042@gmail.com
 - 😄 Pronomes: Ela/Dela
@@ -18,12 +17,17 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" width="42" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="42" alt="css3 logo />
+  <img src="https://github.com/beatrizgo042/beatrizgo042/assets/86429006/4aa85af9-d82b-44ea-b849-aae634c64841" height="30" width="42" alt="power bi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" width="42" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="42" alt="jupter notebook logo />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+
+</svg>
+
+</svg>
 </div>
 
     
