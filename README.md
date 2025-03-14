@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou Beatriz Gomes 👋
 
 - 🎲 Cursando tecnólogo em Ciência de Dados
-- 🐍 Estudando Power BI
+- 🐍 Estudando Banco de Dados e Java
 - 🗣️ Inglês intermediário
 - 📧 Contato pelo email: beatrizgo042@gmail.com
 - 😄 Pronomes: Ela/Dela
