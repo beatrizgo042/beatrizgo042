@@ -8,13 +8,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beatrizgo042&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beatrizgo042&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://github.com/beatrizgo042/beatrizgo042/assets/86429006/4aa85af9-d82b-44ea-b849-aae634c64841" height="30" width="42" alt="power bi logo"  />
