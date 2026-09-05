@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou Beatriz Gomes 👋
 
-- 🎲 Cursando tecnólogo em Ciência de Dados
-- 🐍 Estudando Banco de Dados e Java
+- 🎲 Cursando Bacharel em Engenharia Mecânica
+- 🐍 Estudando Python e SQL
 - 🗣️ Inglês intermediário
 - 📧 Contato pelo email: beatrizgo042@gmail.com
 - 😄 Pronomes: Ela/Dela
