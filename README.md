@@ -1,6 +1,6 @@
 ### Olá, Mundo! Eu sou Beatriz Gomes 👋
 
-- 🎲 Cursando Bacharel em Engenharia Mecânica
+- ⚙️ Cursando Bacharel em Engenharia Mecânica
 - 🐍 Estudando Python e SQL
 - 🗣️ Inglês intermediário
 - 📧 Contato pelo email: beatrizgo042@gmail.com
